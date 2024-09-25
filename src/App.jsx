@@ -1,10 +1,9 @@
 import "./App.css";
-import { Sphere } from "./components/Sphere";
 
 function App() {
   return (
     <>
-      <Sphere />
+      <h1>Hello 2025</h1>
     </>
   );
 }
